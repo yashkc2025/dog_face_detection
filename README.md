@@ -11,6 +11,18 @@ This repository contains a deep learning project focused on accurate dog face de
 - Works on various dog breeds and poses
 - Optimized for reasonable inference speed
 
+## Metrics
+
+![confusion_matrix](https://github.com/user-attachments/assets/6efc72a7-8bc0-4957-883d-20ad2a93ee12)
+![F1_curve](https://github.com/user-attachments/assets/6c0ebcef-25c0-4a41-bb0d-8550543ff873)
+![labels](https://github.com/user-attachments/assets/1b85af80-baf7-4753-9e89-8ccb9644d7ea)
+
+## Samples
+
+![val_batch1_pred](https://github.com/user-attachments/assets/c7cddc12-f64f-4c2c-ad9b-463f557e2039)
+![val_batch0_pred](https://github.com/user-attachments/assets/f81d4598-0248-4dd8-a8b0-665f46e964ab)
+
+
 ## 🧠 Model Performance
 
 Our fine-tuned YOLOv8 model achieved the following metrics:
