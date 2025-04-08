@@ -7,7 +7,7 @@ This repository contains a deep learning project focused on accurate dog face de
 ## 🔍 Key Features
 
 - Real-time dog face detection
-- High accuracy metrics (mAP50 92.71%, 88.5% recall)
+- High accuracy metrics (mAP50 94.2%, 88.6% recall)
 - Works on various dog breeds and poses
 - Optimized for reasonable inference speed
 
